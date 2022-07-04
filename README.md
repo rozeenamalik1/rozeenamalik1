@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rozeenamalik1
+- 👋 Hi, I’m @rozeenamalik1. Punctual and Dedicated Web developer seeking for job. Bootstrap, PHP, HTML 5, jQuery, CSS3, JavaScript, Ajax, WordPress, dot Net, CodeIgniter. 
 - 👀 I’m interested in coding (Web Development).
 - 🌱 I’m currently learning frontend web development.
 - 📫 How to reach me?
